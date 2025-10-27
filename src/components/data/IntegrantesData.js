@@ -4,7 +4,7 @@ export const integrantes = [
   {
     id: 1,
     nombre: 'Marco Seguí',
-    foto: '/public/Mar.jpg',
+    foto: '/Mar.jpg',
     rol: 'Licenciado en prevención laboral / Magister en Ingeniería en Calidad',
     ubicacion: 'Guaymallen, Mendoza',
     linkedin: "https://linkedin.com/in/MarcoSegui",
@@ -19,7 +19,7 @@ export const integrantes = [
   {
     id: 2,
     nombre: 'Federico Agustin Giglio',
-    foto: '/public/Fed.jpg',
+    foto: '/Fed.jpg',
     rol: 'Lic. en Seguridad e Higiene Laboral / QA Tester Automation',
     ubicacion: 'Junín, Mendoza',
     linkedin: "https://linkedin.com/in/federico-giglio",
@@ -33,7 +33,7 @@ export const integrantes = [
   {
     id: 3,
     nombre: 'Luciana Belén Beningazza',
-    foto: '/public/Bel.jpg',
+    foto: '/Bel.jpg',
     rol: 'Profesora de Biología',
     ubicacion: 'Junín, Mendoza',
     linkedin: "https://linkedin.com/in/BelenBeningazza",
@@ -48,7 +48,7 @@ export const integrantes = [
   {
     id: 4,
     nombre: 'Santiago Nicolás Giglio',
-    foto: '/public/Nic.jpg',
+    foto: '/Nic.jpg',
     rol: 'Enólogo / QA Tester Manual',
     ubicacion: 'San Rafael, Mendoza',
     linkedin: "https://linkedin.com/in/NicoGiglio",
@@ -63,7 +63,7 @@ export const integrantes = [
   {
     id: 5,
     nombre: 'Gabriel Soria',
-    foto: '/public/Gab.jpg',
+    foto: '/Gab.jpg',
     rol: 'Técnico en Higiene y Seguridad',
     ubicacion: 'San Martín, Mendoza',
     linkedin: "https://linkedin.com/in/GabrielESoria",
@@ -78,7 +78,7 @@ export const integrantes = [
   {
     id: 6,
     nombre: 'Magalí Ordenes',
-    foto: '/public/Mag.jpg',
+    foto: '/Mag.jpg',
     rol: 'Diseñadora Gráfica',
     ubicacion: 'San Martín, Mendoza',
     linkedin: "https://linkedin.com/in/magaliOrdenes",
