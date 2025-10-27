@@ -1,0 +1,55 @@
+*{ margin:0; padding:0; box-sizing:border-box; font-family:'Roboto',sans-serif; }
+
+body{
+  min-height:100vh; display:flex; flex-direction:column;
+  background:#a5f1f1; color:#000; line-height:1.6; margin:0;
+}
+
+header{ background:#000; color:#fff; text-align:center; padding:20px; }
+.logo-idos{ width:150px; border-radius:50%; margin-bottom:10px; }
+.utn{ width:250px; }
+
+.section-wrapper{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+.proyecto_img{ width:50%; position:relative; left:25%; }
+.icon{ width:50px; border-radius:50%; vertical-align:middle; position:relative; right:20px; }
+.perfil{ width:100px; height:100px; border-radius:50%; border:2.5px solid #fff; object-fit:cover; position:relative; vertical-align:middle; right:85px; }
+
+ul{ list-style-type:none; }
+.integrantes{ line-height:8; margin-bottom:15px; padding-left:100px; position:relative; min-height:50px; }
+.lista_horizontal{ line-height:8; display:grid; grid-auto-flow:column; list-style:none; padding:0; gap:10px; }
+
+nav{ background:#c73d97; display:flex; justify-content:center; flex-wrap:wrap; }
+nav a{ color:#fff; padding:12px 20px; text-decoration:none; font-weight:bold; cursor:pointer; }
+nav a.router-link-active{ text-decoration:underline; }
+nav a:hover{ background:#c73d97; }
+
+main{ flex:1; padding:20px; max-width: 1200px;margin: 2rem auto;width: 100%; }
+
+/* Eliminado: section{display:none} y .active + keyframes */
+
+h2{ color:#ff00a6; margin-bottom:10px; font-size: 1.5rem; }
+ul{ padding-left:20px; } ul li{ margin-bottom:8px; }
+a{ color:#0000cc; word-break:break-word; }
+
+footer{ text-align:center; padding: 1px; background:#000; color:#fff; width: 100%; }
+
+
+
+/* Responsive */
+@media (max-width: 768px){
+  nav{ flex-direction:column; align-items:center; }
+  nav a{ width:100%; text-align:center; padding:14px; }
+  header h1{ font-size:1.5em; }
+  .logo-idos{ width:80px; }
+  main{ padding:15px; margin: 0 4%; }
+}
+@media (max-width: 480px){
+  body{ font-size:15px; }
+  nav a{ font-size:16px; }
+  header h1{ font-size:1.2em; }
+}
