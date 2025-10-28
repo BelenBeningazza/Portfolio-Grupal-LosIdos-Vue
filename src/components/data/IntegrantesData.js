@@ -7,7 +7,7 @@ export const integrantes = [
     foto: '/Mar.jpg',
     rol: 'Licenciado en prevención laboral / Magister en Ingeniería en Calidad',
     ubicacion: 'Guaymallen, Mendoza',
-    linkedin: "https://linkedin.com/in/MarcoSegui",
+    linkedin: "https://linkedin.com/in/marco-antonio-seguí-bab18a70",
     email:'marco.segui@hotmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
@@ -22,7 +22,7 @@ export const integrantes = [
     foto: '/Fed.jpg',
     rol: 'Lic. en Seguridad e Higiene Laboral / QA Tester Automation',
     ubicacion: 'Junín, Mendoza',
-    linkedin: "https://linkedin.com/in/federico-giglio",
+    linkedin: "https://linkedin.com/in/federico-agustin-giglio",
     email:'federicoagustingiglio@gmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
@@ -36,7 +36,7 @@ export const integrantes = [
     foto: '/Bel.jpg',
     rol: 'Profesora de Biología',
     ubicacion: 'Junín, Mendoza',
-    linkedin: "https://linkedin.com/in/BelenBeningazza",
+    linkedin: "https://linkedin.com/in/luciana-belen-beningazza",
     email:'belenbeningazza22@gmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
@@ -51,7 +51,7 @@ export const integrantes = [
     foto: '/Nic.jpg',
     rol: 'Enólogo / QA Tester Manual',
     ubicacion: 'San Rafael, Mendoza',
-    linkedin: "https://linkedin.com/in/NicoGiglio",
+    linkedin: "https://linkedin.com/in/santiagonicolasgiglio",
     email:'gigliosantiagonicolas@gmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
@@ -66,7 +66,7 @@ export const integrantes = [
     foto: '/Gab.jpg',
     rol: 'Técnico en Higiene y Seguridad',
     ubicacion: 'San Martín, Mendoza',
-    linkedin: "https://linkedin.com/in/GabrielESoria",
+    linkedin: "https://linkedin.com/in/gabriel-soria-845ba8269",
     email:'gabrieledgardosoria26@gmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
@@ -81,7 +81,7 @@ export const integrantes = [
     foto: '/Mag.jpg',
     rol: 'Diseñadora Gráfica',
     ubicacion: 'San Martín, Mendoza',
-    linkedin: "https://linkedin.com/in/magaliOrdenes",
+    linkedin: "https://linkedin.com/in/magali-ordenes-viguet-2953532b3",
     email:'magali.ordenesviguet@gmail.com',
     educacion: [
       { anio: '2025', titulo: 'Tecnicatura Universitaria en Programación (UTN)', detalle: 'En curso' },
