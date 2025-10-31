@@ -64,7 +64,7 @@ const habilidades = ref([
                     <!--Se muestra el icono de la habilidad y el nombre de la habilidad con su nivel-->
                     <img :src="habilidad.icono" :alt="habilidad.nombre">
                     <!--Se muestra el icono de la habilidad y el nombre de la habilidad con su nivel-->
-                    <span>{{ habilidad.nombre }}: {{ habilidad.nivel }}</span>
+                    <span>{{ habilidad.nombre }}</span>
                 </li>
             </ul>
         </div>
